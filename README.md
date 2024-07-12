@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/devmac-afk/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/devmac-afk/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Math
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/devmac-afk/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## String
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/devmac-afk/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/devmac-afk/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/devmac-afk/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -60,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/devmac-afk/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/devmac-afk/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/devmac-afk/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
