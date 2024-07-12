@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/devmac-afk/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/devmac-afk/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0943-sum-of-subarray-minimums](https://github.com/devmac-afk/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/devmac-afk/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/devmac-afk/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devmac-afk/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/devmac-afk/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0943-sum-of-subarray-minimums](https://github.com/devmac-afk/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/devmac-afk/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Hash Table
 |  |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devmac-afk/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+## Stack
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/devmac-afk/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/devmac-afk/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
