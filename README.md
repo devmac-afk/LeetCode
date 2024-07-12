@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/devmac-afk/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1319-unique-number-of-occurrences](https://github.com/devmac-afk/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devmac-afk/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Math
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/devmac-afk/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devmac-afk/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/devmac-afk/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/devmac-afk/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devmac-afk/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/devmac-afk/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Design
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devmac-afk/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Stack
 |  |
 | ------- |
@@ -117,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/devmac-afk/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Greedy
+|  |
+| ------- |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 <!---LeetCode Topics End-->
