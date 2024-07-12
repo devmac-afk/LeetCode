@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0753-open-the-lock](https://github.com/devmac-afk/LeetCode/tree/master/0753-open-the-lock) |
+| [1250-longest-common-subsequence](https://github.com/devmac-afk/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/devmac-afk/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Matrix
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/devmac-afk/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/devmac-afk/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/devmac-afk/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/devmac-afk/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
