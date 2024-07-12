@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/devmac-afk/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Matrix
 |  |
@@ -49,9 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/devmac-afk/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/devmac-afk/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/devmac-afk/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+## Counting
+|  |
+| ------- |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/devmac-afk/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 <!---LeetCode Topics End-->
