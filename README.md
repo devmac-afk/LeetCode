@@ -14,6 +14,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devmac-afk/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/devmac-afk/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0904-leaf-similar-trees](https://github.com/devmac-afk/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/devmac-afk/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/devmac-afk/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/devmac-afk/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/devmac-afk/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -57,6 +59,7 @@
 | [0904-leaf-similar-trees](https://github.com/devmac-afk/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/devmac-afk/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/devmac-afk/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/devmac-afk/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/devmac-afk/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Dynamic Programming
 |  |
@@ -75,6 +78,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devmac-afk/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/devmac-afk/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/devmac-afk/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/devmac-afk/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
