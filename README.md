@@ -20,6 +20,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devmac-afk/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/devmac-afk/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1236-n-th-tribonacci-number](https://github.com/devmac-afk/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## String
 |  |
@@ -71,6 +72,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/devmac-afk/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/devmac-afk/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/devmac-afk/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1236-n-th-tribonacci-number](https://github.com/devmac-afk/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/devmac-afk/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/devmac-afk/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
