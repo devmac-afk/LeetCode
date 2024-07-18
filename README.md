@@ -44,6 +44,7 @@
 | [0975-range-sum-of-bst](https://github.com/devmac-afk/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devmac-afk/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/devmac-afk/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/devmac-afk/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/devmac-afk/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/devmac-afk/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/devmac-afk/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -54,6 +55,7 @@
 | [0975-range-sum-of-bst](https://github.com/devmac-afk/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devmac-afk/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/devmac-afk/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/devmac-afk/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/devmac-afk/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/devmac-afk/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
@@ -67,6 +69,7 @@
 | [0975-range-sum-of-bst](https://github.com/devmac-afk/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devmac-afk/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/devmac-afk/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/devmac-afk/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/devmac-afk/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/devmac-afk/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/devmac-afk/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
