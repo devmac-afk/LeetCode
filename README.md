@@ -11,6 +11,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/devmac-afk/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/devmac-afk/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devmac-afk/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/devmac-afk/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/devmac-afk/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devmac-afk/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0967-minimum-falling-path-sum](https://github.com/devmac-afk/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/devmac-afk/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/devmac-afk/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Tree
 |  |
@@ -79,6 +81,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/devmac-afk/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/devmac-afk/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/devmac-afk/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/devmac-afk/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/devmac-afk/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/devmac-afk/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
