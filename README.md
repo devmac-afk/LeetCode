@@ -14,6 +14,7 @@
 | [1224-minimum-falling-path-sum-ii](https://github.com/devmac-afk/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/devmac-afk/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devmac-afk/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/devmac-afk/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/devmac-afk/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -39,6 +40,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/devmac-afk/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/devmac-afk/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/devmac-afk/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/devmac-afk/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Tree
 |  |
