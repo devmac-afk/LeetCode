@@ -16,6 +16,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devmac-afk/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devmac-afk/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/devmac-afk/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/devmac-afk/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/devmac-afk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -41,6 +42,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/devmac-afk/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/devmac-afk/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devmac-afk/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/devmac-afk/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Tree
 |  |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/devmac-afk/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Memoization
 |  |
 | ------- |
