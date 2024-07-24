@@ -13,6 +13,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/devmac-afk/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/devmac-afk/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/devmac-afk/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1333-sort-the-jumbled-numbers](https://github.com/devmac-afk/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devmac-afk/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devmac-afk/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -132,6 +133,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1333-sort-the-jumbled-numbers](https://github.com/devmac-afk/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devmac-afk/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/devmac-afk/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
