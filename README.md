@@ -23,6 +23,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/devmac-afk/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/devmac-afk/LeetCode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/devmac-afk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2727-number-of-senior-citizens](https://github.com/devmac-afk/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/devmac-afk/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2502-sort-the-people](https://github.com/devmac-afk/LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/devmac-afk/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Matrix
 |  |
 | ------- |
