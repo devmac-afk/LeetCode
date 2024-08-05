@@ -17,6 +17,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devmac-afk/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devmac-afk/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/devmac-afk/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/devmac-afk/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/devmac-afk/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/devmac-afk/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/devmac-afk/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Tree
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/devmac-afk/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devmac-afk/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/devmac-afk/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/devmac-afk/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/devmac-afk/LeetCode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/devmac-afk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -175,5 +178,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/devmac-afk/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/devmac-afk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 <!---LeetCode Topics End-->
