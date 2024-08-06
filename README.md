@@ -44,6 +44,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2502-sort-the-people](https://github.com/devmac-afk/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/devmac-afk/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/devmac-afk/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/devmac-afk/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2502-sort-the-people](https://github.com/devmac-afk/LeetCode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/devmac-afk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/devmac-afk/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/devmac-afk/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/devmac-afk/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/devmac-afk/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
 | ------- |
@@ -148,6 +151,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/devmac-afk/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/devmac-afk/LeetCode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/devmac-afk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/devmac-afk/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -175,6 +179,7 @@
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/devmac-afk/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/devmac-afk/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Memoization
 |  |
 | ------- |
