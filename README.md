@@ -19,6 +19,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devmac-afk/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/devmac-afk/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/devmac-afk/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/devmac-afk/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/devmac-afk/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/devmac-afk/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -54,6 +55,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/devmac-afk/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/devmac-afk/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devmac-afk/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/devmac-afk/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/devmac-afk/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Tree
@@ -75,6 +77,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/devmac-afk/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/devmac-afk/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/devmac-afk/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/devmac-afk/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/devmac-afk/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/devmac-afk/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
@@ -125,6 +128,7 @@
 | ------- |
 | [0753-open-the-lock](https://github.com/devmac-afk/LeetCode/tree/master/0753-open-the-lock) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/devmac-afk/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/devmac-afk/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/devmac-afk/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Counting
 |  |
@@ -195,4 +199,8 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/devmac-afk/LeetCode/tree/master/0921-spiral-matrix-iii) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/devmac-afk/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
