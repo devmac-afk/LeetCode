@@ -48,6 +48,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/devmac-afk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2502-sort-the-people](https://github.com/devmac-afk/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/devmac-afk/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/devmac-afk/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/devmac-afk/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
@@ -204,6 +205,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/devmac-afk/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/devmac-afk/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/devmac-afk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/devmac-afk/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Simulation
 |  |
 | ------- |
