@@ -9,6 +9,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/devmac-afk/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/devmac-afk/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0753-open-the-lock](https://github.com/devmac-afk/LeetCode/tree/master/0753-open-the-lock) |
+| [0780-max-chunks-to-make-sorted](https://github.com/devmac-afk/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0921-spiral-matrix-iii](https://github.com/devmac-afk/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/devmac-afk/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/devmac-afk/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/devmac-afk/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0780-max-chunks-to-make-sorted](https://github.com/devmac-afk/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1333-sort-the-jumbled-numbers](https://github.com/devmac-afk/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devmac-afk/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -172,10 +174,12 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devmac-afk/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/devmac-afk/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0780-max-chunks-to-make-sorted](https://github.com/devmac-afk/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/devmac-afk/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/devmac-afk/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/devmac-afk/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Bit Manipulation
 |  |
@@ -192,6 +196,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/devmac-afk/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/devmac-afk/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/devmac-afk/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/devmac-afk/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
