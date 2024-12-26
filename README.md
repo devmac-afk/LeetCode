@@ -66,6 +66,7 @@
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/devmac-afk/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/devmac-afk/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/devmac-afk/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/devmac-afk/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -78,6 +79,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/devmac-afk/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0904-leaf-similar-trees](https://github.com/devmac-afk/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/devmac-afk/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devmac-afk/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -96,6 +98,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/devmac-afk/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/devmac-afk/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/devmac-afk/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/devmac-afk/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -136,6 +139,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/devmac-afk/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0753-open-the-lock](https://github.com/devmac-afk/LeetCode/tree/master/0753-open-the-lock) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/devmac-afk/LeetCode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/devmac-afk/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
