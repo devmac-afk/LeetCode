@@ -7,6 +7,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/devmac-afk/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/devmac-afk/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/devmac-afk/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0494-target-sum](https://github.com/devmac-afk/LeetCode/tree/master/0494-target-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/devmac-afk/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0753-open-the-lock](https://github.com/devmac-afk/LeetCode/tree/master/0753-open-the-lock) |
 | [0780-max-chunks-to-make-sorted](https://github.com/devmac-afk/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/devmac-afk/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0494-target-sum](https://github.com/devmac-afk/LeetCode/tree/master/0494-target-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/devmac-afk/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/devmac-afk/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/devmac-afk/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -231,4 +233,5 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/devmac-afk/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/devmac-afk/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
